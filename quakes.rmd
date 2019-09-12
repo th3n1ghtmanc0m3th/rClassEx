@@ -10,3 +10,8 @@ earthquakes <- data(quakes)
 print(summary(quakes))
 ```
 
+#Background
+This is my background.
+
+#Analysis
+This is my analysis.
