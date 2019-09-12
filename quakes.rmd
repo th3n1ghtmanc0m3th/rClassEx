@@ -1,0 +1,12 @@
+---
+title: "Example with Git"
+output: html_notebook
+---
+
+
+First we load the dataset from "quakes"", a built-in dataset with R.
+```{r}
+earthquakes <- data(quakes)
+print(summary(quakes))
+```
+
